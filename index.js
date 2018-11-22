@@ -8,5 +8,5 @@ function updateDriverWithKeyAndValue() {
 };
 
 function destructivelyUpdateDriverWithKeyAndValue() {
-  
-}
+  driver.driver = "grant"
+};

@@ -6,3 +6,7 @@ const driver = {
 function updateDriverWithKeyAndValue() {
   driver: "tim"
 };
+
+function destructivelyUpdateDriverWithKeyAndValue() {
+  
+}
